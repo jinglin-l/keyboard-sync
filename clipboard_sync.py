@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = ["zeroconf"]
+# ///
 """Peer-to-peer LAN clipboard sync using Bonjour discovery and raw TCP."""
 
 import hashlib
