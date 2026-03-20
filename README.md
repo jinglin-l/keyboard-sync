@@ -6,12 +6,7 @@ Not to fret. This tool syncs clipboards between any two Macs on the same network
 
 # Usage
 
-## Install Dependencies
-```
-pip install zeroconf
-```
-
 ## Run command on both machines
 ```
-python3 ~/clipboard_sync.py
+uv run ~/clipboard_sync.py
 ```
